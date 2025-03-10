@@ -1,5 +1,6 @@
 {
   "name": "fenohasina-code",
+  "type": "module",
   "version": "1.0.0",
   "description": "Un code par Fenohasina et Fagilah et Dr Toky",
   "main": "factorielle.js",

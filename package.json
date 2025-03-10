@@ -1,0 +1,19 @@
+{
+  "name": "fenohasina-code",
+  "version": "1.0.0",
+  "description": "Un code par Fenohasina et Fagilah et Dr Toky",
+  "main": "factorielle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fenohasina08/factorielle.git"
+  },
+  "author": "Fenohasina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fenohasina08/factorielle/issues"
+  },
+  "homepage": "https://github.com/Fenohasina08/factorielle#readme"
+}
